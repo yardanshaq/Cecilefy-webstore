@@ -40,8 +40,6 @@
           "jsr:": "^supabase",
           "lucide-react": "^0.487.0",
           "motion": "*",
-          "npm:": "^supabase",
-          "npm:hono": "*",
           "react": "^18.3.1",
           "react-day-picker": "^8.10.1",
           "react-dom": "^18.3.1",
